@@ -10,6 +10,8 @@ A folder will be created in an output directory name same as the class of corrup
 
 ## Implemented Noisy Filters:
 
+### Original Image
+
 ![Original Image](LanRed4.jpg)
 
 ### 1. Salt and Pepper Noise
