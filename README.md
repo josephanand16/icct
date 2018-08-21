@@ -8,7 +8,7 @@ Pass a source path of the image.
 Mentioned the type of corruption without extra spaces.
 A folder will be created in an output directory name same as the class of corruption.
 
-## Implemented Noisy Filters:
+## Implemented Noise and corruption Models:
 
 ### Original Image
 
