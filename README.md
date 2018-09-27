@@ -28,5 +28,4 @@ A folder will be created in an output directory name same as the class of corrup
 
 ## Need to do
 
-### 1. Export data to CSV file "class of corruption : Image name"
-### 2. Add more augmentation techniques on color,hue saturation.
+### 1. Add more augmentation techniques on color,hue saturation.
