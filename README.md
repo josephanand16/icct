@@ -22,7 +22,7 @@ A folder will be created in an output directory name same as the class of corrup
 
 ![Speckle Noise](speckle_1rgb.jpg)
 
-### 3. Image Glitching
+### 3. Screen Tearing
 
 ![Screen Tear Image](screen_tear.jpg)
 
