@@ -24,7 +24,7 @@ A folder will be created in an output directory name same as the class of corrup
 
 ### 3. Image Glitching
 
-![Glitched Image](glitched_1_0.jpg)
+![Screen Tear Image](screen_tear.jpg)
 
 ## Need to do
 
